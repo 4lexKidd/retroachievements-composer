@@ -1,5 +1,5 @@
 {
-    "name": "4lexKidd/retroachievements",
+    "name": "4lexkidd/retroachievements",
     "type": "library",
     "description": "RetroAchievements.org API wrapper",
     "keywords": ["retro", "achievements", "retroachievements"],
@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "4lexKidd\\RetroAchievements\\": "src/"
+            "4lexkidd\\RetroAchievements\\": "src/"
         }
     },
     "require-dev": {
