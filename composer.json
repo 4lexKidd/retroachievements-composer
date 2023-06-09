@@ -9,14 +9,7 @@
             "name": "Joe Strong",
             "email": "joe@joestrong.co.uk"
         }
-    ],
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/4lexKidd/retroachievements-composer"
-        }
-    ],
-
+    ],    
     "require": {
         "php": ">=7.1.0",
         "guzzlehttp/guzzle": ">=7.2"
