@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "4lexkidd\\RetroAchievements\\": "src/"
+            "4lexKidd\\RetroAchievements\\": "src/"
         }
     },
     "require-dev": {
