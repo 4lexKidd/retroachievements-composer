@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "JoeStrong\\RetroAchievements\\": "src/"
+            "4lexKidd\\RetroAchievements\\": "src/"
         }
     },
     "require-dev": {
