@@ -1,8 +1,8 @@
-## RetroAchievements composer package
+## RetroAchievements composer package (updated dependencies)
 
 Install with:
 
-`composer require joestrong/retroachievements`
+`composer require 4lexKidd/retroachievements`
 
 Use in a project:
 
